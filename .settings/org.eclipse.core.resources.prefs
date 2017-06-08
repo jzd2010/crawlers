@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/baiduImg_crawler/baiduImg.py=utf-8
+encoding//src/baiduImg_crawler/baiduImg_crawler.py=utf-8
+encoding//src/baike_crawler/html_downloader.py=utf-8
+encoding//src/baike_crawler/html_outputer.py=utf-8
+encoding//src/baike_crawler/html_parser.py=utf-8
+encoding//src/baike_crawler/spider_main.py=utf-8
+encoding//src/baike_crawler/url_manager.py=utf-8
+encoding//src/sina_crawler/Sina_spider1/Sina_spider1/spiders/spiders.py=utf-8
+encoding//src/zhihu_crawler/crawler_main.py=utf-8
